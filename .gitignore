@@ -1,0 +1,6 @@
+# ignore objects and archives, anywhere in the tree.
+*.[oa]
+*.lst
+*.elf
+*.eep
+*.hex
